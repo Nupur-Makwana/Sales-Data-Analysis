@@ -80,7 +80,7 @@ python scripts/sales_analysis.py
 * Open file:
 
 ```
-dashboard/sales_dashboard.pbix
+dashboard/Sales_Data_Analysis.pbix
 ```
 
 ---
