@@ -72,7 +72,7 @@ The following business questions were solved:
 ### 1. Run Python Script
 
 ```
-python scripts/sales_analysis.py
+python scripts/Salesproject.ipynb
 ```
 
 ### 2. Open Power BI Dashboard
