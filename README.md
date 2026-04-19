@@ -67,24 +67,6 @@ The following business questions were solved:
 
 ---
 
-##  How to Run
-
-### 1. Run Python Script
-
-```
-python scripts/Salesproject.ipynb
-```
-
-### 2. Open Power BI Dashboard
-
-* Open file:
-
-```
-dashboard/Sales_Data_Analysis.pbix
-```
-
----
-
 ##  Outcome
 
 * Performed data cleaning and transformation
